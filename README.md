@@ -64,4 +64,6 @@ Hi, I'm **Aditya Gogoi**, a Computer Science Engineering student and aspiring **
 
 ## 👀 Profile Views
 
-[![](https://komarev.com/ghpvc/?username=Gogoi-Ji&icon=0&color=13)](https://visitcount.itsvg.in)
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Gogoi-Ji&label=Profile%20Views&color=8A2BE2&style=flat)
